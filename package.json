@@ -1,0 +1,20 @@
+{
+  "name": "demojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "chai": "^5.1.1",
+    "eslint": "^9.2.0",
+    "globals": "^15.2.0",
+    "mocha": "^10.4.0"
+  }
+}
