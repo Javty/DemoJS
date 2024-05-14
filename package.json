@@ -13,8 +13,10 @@
   "devDependencies": {
     "@eslint/js": "^9.2.0",
     "chai": "^5.1.1",
+    "chromedriver": "^124.0.3",
     "eslint": "^9.2.0",
     "globals": "^15.2.0",
-    "mocha": "^10.4.0"
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.20.0"
   }
 }
